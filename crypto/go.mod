@@ -1,4 +1,4 @@
-module golang.org/x/crypto
+module github.com/webraybtl/go/x/crypto
 
 go 1.17
 
