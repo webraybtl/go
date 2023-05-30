@@ -16,8 +16,8 @@ import (
 	"hash"
 	"io"
 
-	"golang.org/x/crypto/chacha20"
-	"golang.org/x/crypto/internal/poly1305"
+	"github.com/webraybtl/go/crypto/chacha20"
+	"github.com/webraybtl/go/crypto/internal/poly1305"
 )
 
 const (
